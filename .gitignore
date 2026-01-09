@@ -42,5 +42,4 @@ app-example
 /ios
 /android
 
-.api.ts
-.env
+.env.*
